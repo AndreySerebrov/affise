@@ -1,0 +1,9 @@
+### 
+
+@local=http://localhost:8081
+
+POST {{local}}
+
+{
+    "urls":["http://yandex.ru","http://google.com","https://blog.golang.org/pipelines","","","","","","","","","","","","","","","","","","",""]
+}
